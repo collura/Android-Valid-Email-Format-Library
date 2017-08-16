@@ -3,14 +3,14 @@ package br.com.utils.colluradeveloper.mylibrary;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/*
-*Classe responsável por testar formato de email válido
-*/
 
-public class ValidationUtils {
+public class ValidEmailFormat {
         private boolean isValid = false;
 
-        public Boolean validar (String email) {
+
+
+        /// --- VERIFY EMAIL FORMAT
+        public Boolean test(String email) {
             String expression = "^[\\w\\.-]+@([\\w\\-]+\\.)+[A-Z]{2,4}$";
             CharSequence inputStr = email;
 
