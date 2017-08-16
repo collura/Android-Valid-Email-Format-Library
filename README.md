@@ -1,4 +1,4 @@
-# Validation Utils Library
+[![](https://jitpack.io/v/collura/ValidEmailFormat.svg)](https://jitpack.io/#collura/ValidEmailFormat) 
 
 A collection of Validation Classes for Android
 
@@ -27,3 +27,5 @@ Boolean isValid = validEmailFormat.test(String email);
 ## Authors
 
 [Betto Collura](https://github.com/collura)
+
+
