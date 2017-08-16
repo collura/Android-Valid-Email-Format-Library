@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-	        compile 'com.github.collura:ValidationUtilsLibrary:v1.1'
+	        compile 'com.github.collura:ValidationUtilsLibrary:v1.3'
 }
 ```
 
