@@ -16,6 +16,14 @@ dependencies {
 }
 ```
 
+## Getting Started
+
+```
+ValidationUtils validationUtils = new ValidationUtils();
+Boolean validEmail = validationUtils.emailValidFormat(String email);
+	
+```
+
 ## Authors
 
 [Betto Collura](https://github.com/collura)
