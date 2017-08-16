@@ -7,7 +7,7 @@ A collection of Validation Classes for Android
 
 ## Gradle
 
-Put this lin in your Grable file:
+Put this lines in your app level Gradle file:
 
 ```
 repositories {   
