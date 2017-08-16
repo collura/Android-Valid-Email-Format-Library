@@ -22,7 +22,7 @@ dependencies {
 ## Getting Started
 
 ```
-ValidEmailFormat validEmailFormat = new ValidationUtils();
+ValidEmailFormat validEmailFormat = new ValidEmailFormat();
 Boolean isValid = validEmailFormat.test(String email);
 	
 ```
