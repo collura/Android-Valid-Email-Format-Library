@@ -19,8 +19,8 @@ dependencies {
 ## Getting Started
 
 ```
-ValidationUtils validationUtils = new ValidationUtils();
-Boolean validEmail = validationUtils.emailValidFormat(String email);
+ValidEmailFormat validEmailFormat = new ValidationUtils();
+Boolean isValid = validEmailFormat.test(String email);
 	
 ```
 
