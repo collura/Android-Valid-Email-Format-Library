@@ -3,7 +3,7 @@
 
 [![](https://jitpack.io/v/collura/ValidEmailFormat.svg)](https://jitpack.io/#collura/ValidEmailFormat) 
 
-A collection of Validation Classes for Android
+A simple project for E-Mail format Validation.
 
 ## Gradle
 
