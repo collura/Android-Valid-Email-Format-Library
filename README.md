@@ -27,7 +27,8 @@ dependencies {
 
 ### Accept format as user@domain.com and return "true".
 ### Without "@" or "domain.com", return "false".
-
+#
+#
 ```
 ValidEmailFormat validEmailFormat = new ValidEmailFormat();
 Boolean isValid = validEmailFormat.test(String email);
