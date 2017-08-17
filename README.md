@@ -13,7 +13,11 @@ Put this lines in your app level Gradle file:
 repositories {   
               maven { url 'https://jitpack.io' }
 }
+```
 
+And
+
+```
 dependencies {
 	        compile 'com.github.collura:ValidationUtilsLibrary:v1.3'
 }
