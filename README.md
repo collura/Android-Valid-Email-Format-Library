@@ -24,7 +24,7 @@ dependencies {
 ```
 
 ## Getting Started
-###Accept format as user@domain.com and return "true".  
+#### Accept format as user@domain.com and return "true".  
 Without "@" or "domain.com", return "false".  
 
 ```
