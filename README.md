@@ -1,5 +1,5 @@
 
-# Validation Utils Library
+# Email Format Validation Library
 
 [![](https://jitpack.io/v/collura/ValidEmailFormat.svg)](https://jitpack.io/#collura/ValidEmailFormat) 
 
