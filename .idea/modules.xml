@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android-Valid-Email-Format-Library.iml" filepath="$PROJECT_DIR$/.idea/Android-Valid-Email-Format-Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidationUtilsLibrary.iml" filepath="$PROJECT_DIR$/ValidationUtilsLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/validationModule/validationModule.iml" filepath="$PROJECT_DIR$/validationModule/validationModule.iml" />
